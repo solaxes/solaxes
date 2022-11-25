@@ -1,6 +1,4 @@
-I am an experienced:
-- Full stack web developer having expertise in PHP.
-- Technical Lead in team and project management.
+Diversely skilled Senior Software Engineer with 14 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
 
 ## Achievements:
   - Worked on very complex project in last years, where I explored lots of technical stuff and utilised my skills to build many modules.
