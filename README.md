@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Jaidev Bangar @solaxes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am an experienced:
+- Full stack web developer having expertise in PHP.
+- Technical Lead in team and project management.
 
-<!---
-solaxes/solaxes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Achievements:
+  - Worked on very complex project in last years, where I explored lots of technical stuff and utilised my skills to build many modules.
+  - Became a Top Rated Plus Developer on Upwork, which means coming in Top 3% developers.
+
+## PHP Stack: 
+  - PHP, CodeIgniter, Zend Framework 2 + Doctrine ORM, Laravel, MySQL, Redis
+
+## JavaScript
+  - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
+
+## Current Middleware:
+  - RESTful Web Services, JSON
+
+## UI/UX:
+  - HTML5, CSS, React, jQuery
+## Project Management:
+  - Client Communication, GitLab, Mattermost, Slack, Waterfall SDLC, Trello, Basecamp, Google Docs, Microsoft Office, ER Diagrams, Functional Analysis Documents, Flow Charts, Wireframing, Estimation and Timelines calculations.
+
+## Previously Worked On 
+- Web Services(REST), Websites & Applications, Content Management System, Payment Gateways Integration, API Integration and building, Custom Web Development, Billing & Subscription Portal, CRMs. 
+
+## Technical Skills
+ - MVC/HMVC, OOP & Design Pattern, RegExp,  jQuery, XML, SVN/GIT/GitHub/BitBucket, Google App Scripts. 
+
+## OpenSource
+  - WordPress, Magento, OpenCart, Symfony2, CodeIgniter, Zend Framework with Doctrine ORM 2 , Basic knowledge of Drupal. 
+
+## Servers
+  - Ubuntu, Centos, Apache HTTPD, Apache mod_rewrite, .htaccess, nginx, Basic Linux understanding.
