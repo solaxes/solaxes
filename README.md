@@ -16,12 +16,35 @@
   <a href="https://codeigniter.com/">
   <img src="https://user-images.githubusercontent.com/5701533/217468176-b4f5ca48-7bdd-4f3b-a7a8-4a2ff3d99d00.png" alt="codeigniter" height="40" style="max-width: 100%;">
   </a>
-  
-
   <a href="https://laravel.com/">
-    
   <img src="https://user-images.githubusercontent.com/5701533/217469529-5d4b86d3-42a3-48ad-84e2-097e4aef7d7c.png" alt="laravel" height="40" style="max-width: 100%;">
   </a>
+  
+  <a href="https://framework.zend.com/">
+  <img src="https://user-images.githubusercontent.com/5701533/217469883-ab78b308-c292-4d3c-95da-a62421b21a52.png" alt="Zend Framework" height="40" style="max-width: 100%;">
+  </a>
+    
+  <a href="https://getlaminas.org/">
+  <img src="https://user-images.githubusercontent.com/5701533/217470351-a4ee02b7-7439-4838-807a-edb5d7b527a4.png" alt="Laminas" height="40" style="max-width: 100%;">
+  </a>
+
+  <a href="https://dev.w3.org/html5/spec-LC/">
+  <img src="https://user-images.githubusercontent.com/5701533/217471174-267c08cb-e98b-42d3-98a0-1a663dd9e4c7.png" alt="HTML 5" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+  <img src="https://user-images.githubusercontent.com/5701533/217471377-08341eac-6dc5-4c81-a7f1-faea8a330cec.png" alt="CSS 3" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://nodejs.org">
+  <img src="https://user-images.githubusercontent.com/5701533/217471780-5ef7bfe9-9642-43d3-9490-782ec305b8e9.png" alt="Node Js" height="40" style="max-width: 100%;">
+  </a>
+
+
+
+
+  
+
+
+
   
   
 
