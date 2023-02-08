@@ -4,6 +4,7 @@
   <a href="https://php.net" target="_blank">
   <img src="https://user-images.githubusercontent.com/5701533/217466363-c4260ba3-8efa-40cc-b1fb-c17b3915731b.png" alt="php" width="60" style="max-width: 100%;">
   </a>
+  <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
   </a>
