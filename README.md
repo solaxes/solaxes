@@ -48,6 +48,25 @@
 
 Diversely skilled **Senior Software Engineer** with 14 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
 
+  ## 🤝 Connect with me
+  <p>
+  <a href="https://www.linkedin.com/in/jaidevbangar/">
+  <img src="https://user-images.githubusercontent.com/5701533/217476218-5b665dce-97c2-41ce-bd23-49245ce6722b.png" alt="Linked In" height="40" style="max-width: 100%;">
+  </a>
+  
+  <a href="https://www.upwork.com/freelancers/jaidevbangar">
+  <img src="https://user-images.githubusercontent.com/5701533/217476537-89bb9cfa-0e06-457d-af71-a1a010adf71c.png" alt="Upwork" height="40" style="max-width: 100%;">
+  </a>
+
+
+  
+  <a href="https://twitter.com/jaidev_bangar">
+  <img src="https://user-images.githubusercontent.com/5701533/217477193-4b5f6f91-0a57-4001-a028-4661639ec51e.png" alt="Twitter" height="40" style="max-width: 100%;">
+  </a>
+
+</p>
+
+  
 
 ## 🏆 Achievements:
   - Worked on very complex project in past years, where I explored lots of technical stuff and utilised my skills to contribute in many modules.
@@ -66,26 +85,7 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
 
 ## 🚀 Servers
   - Ubuntu, Centos, Apache HTTPD, Apache mod_rewrite, .htaccess, nginx, Basic Linux understanding.
-
-# Connect with me
-  <p>
-  <a href="https://www.linkedin.com/in/jaidevbangar/">
-  <img src="https://user-images.githubusercontent.com/5701533/217476218-5b665dce-97c2-41ce-bd23-49245ce6722b.png" alt="Linked In" height="40" style="max-width: 100%;">
-  </a>
-  
-  <a href="https://www.upwork.com/freelancers/jaidevbangar">
-  <img src="https://user-images.githubusercontent.com/5701533/217476537-89bb9cfa-0e06-457d-af71-a1a010adf71c.png" alt="Upwork" height="40" style="max-width: 100%;">
-  </a>
-
-
-  
-  <a href="https://twitter.com/jaidev_bangar">
-  <img src="https://user-images.githubusercontent.com/5701533/217477193-4b5f6f91-0a57-4001-a028-4661639ec51e.png" alt="Twitter" height="40" style="max-width: 100%;">
-  </a>
-
-</p>
-  
-  
+   
 
   
 ### ❤️ Support
