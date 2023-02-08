@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Jaidev Bangar</h1>
+<h1 align="center">Hi 👋 I'm Jaidev Bangar</h1>
 <p align="center">Full-Stack Developer from India</p>
 
 ![](https://komarev.com/ghpvc/?username=solaxes)
