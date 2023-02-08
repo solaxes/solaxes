@@ -68,16 +68,16 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
 
   
 
-### 🏆 Achievements:
+### 🏆 Achievements
   - Worked on very complex project in past years, where I explored lots of technical stuff and utilised my skills to contribute in many modules.
   - **Top Rated Plus** Developer on Upwork, which means coming in **Top 3% developers.** 
 
-### 🚀 PHP Stack: 
+### 🚀 PHP Stack
   - PHP, CodeIgniter, Zend Framework 2 + Doctrine ORM, Laravel, MySQL, Redis
 
 ### 🚀 JavaScript
   - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
-### 🚀 UI/UX:
+### 🚀 UI/UX
   - HTML5, CSS, React, jQuery
 
 ### 🚀 OpenSource
