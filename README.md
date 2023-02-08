@@ -53,19 +53,41 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
   - Worked on very complex project in past years, where I explored lots of technical stuff and utilised my skills to contribute in many modules.
   - **Top Rated Plus** Developer on Upwork, which means coming in **Top 3% developers.** 
 
-## PHP Stack: 
+## 🚀 PHP Stack: 
   - PHP, CodeIgniter, Zend Framework 2 + Doctrine ORM, Laravel, MySQL, Redis
 
-## JavaScript
+## 🚀 JavaScript
   - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
-## UI/UX:
+## 🚀 UI/UX:
   - HTML5, CSS, React, jQuery
 
-## OpenSource
+## 🚀 OpenSource
   - WordPress, Magento, OpenCart, Symfony2, CodeIgniter, Zend Framework with Doctrine ORM 2 , Basic knowledge of Drupal. 
 
-## Servers
+## 🚀 Servers
   - Ubuntu, Centos, Apache HTTPD, Apache mod_rewrite, .htaccess, nginx, Basic Linux understanding.
 
-### Support
+# Connect with me
+  <p>
+  <a href="https://www.linkedin.com/in/jaidevbangar/">
+  <img src="https://user-images.githubusercontent.com/5701533/217476218-5b665dce-97c2-41ce-bd23-49245ce6722b.png" alt="Linked In" height="40" style="max-width: 100%;">
+  </a>
+  
+  <a href="https://www.upwork.com/freelancers/jaidevbangar">
+  <img src="https://user-images.githubusercontent.com/5701533/217476537-89bb9cfa-0e06-457d-af71-a1a010adf71c.png" alt="Upwork" height="40" style="max-width: 100%;">
+  </a>
+
+
+  
+  <a href="https://twitter.com/jaidev_bangar">
+  <img src="https://user-images.githubusercontent.com/5701533/217477193-4b5f6f91-0a57-4001-a028-4661639ec51e.png" alt="Twitter" height="40" style="max-width: 100%;">
+  </a>
+
+</p>
+  
+  
+
+  
+### ❤️ Support
 <p dir="auto"><a href="https://www.buymeacoffee.com/solaxes" rel="nofollow"> <img align="left" src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50" width="210" alt="ashrayaa" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" style="max-width: 100%;"></a></p>
+
