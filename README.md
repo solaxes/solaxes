@@ -15,20 +15,8 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
 
 ## JavaScript
   - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
-
-## Current Middleware:
-  - RESTful Web Services, JSON
-
 ## UI/UX:
   - HTML5, CSS, React, jQuery
-## Project Management:
-  - Client Communication, GitLab, Mattermost, Slack, Waterfall SDLC, Trello, Basecamp, Google Docs, Microsoft Office, ER Diagrams, Functional Analysis Documents, Flow Charts, Wireframing, Estimation and Timelines calculations.
-
-## Previously Worked On 
-- Web Services(REST), Websites & Applications, Content Management System, Payment Gateways Integration, API Integration and building, Custom Web Development, Billing & Subscription Portal, CRMs. 
-
-## Technical Skills
- - MVC/HMVC, OOP & Design Pattern, RegExp,  jQuery, XML, SVN/GIT/GitHub/BitBucket, Google App Scripts. 
 
 ## OpenSource
   - WordPress, Magento, OpenCart, Symfony2, CodeIgniter, Zend Framework with Doctrine ORM 2 , Basic knowledge of Drupal. 
