@@ -4,10 +4,25 @@
   <a href="https://php.net" target="_blank">
   <img src="https://user-images.githubusercontent.com/5701533/217466363-c4260ba3-8efa-40cc-b1fb-c17b3915731b.png" alt="php" width="60" style="max-width: 100%;">
   </a>
+  <a href="https://getbootstrap.com/">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://www.javascript.com/">
 <img src="https://user-images.githubusercontent.com/5701533/217467683-23d09908-23b1-4362-8892-7ea2fb0e5f00.png" alt="javascript" width="40" height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://reactjs.org/">
 <img src="https://user-images.githubusercontent.com/5701533/217467938-4aab0187-c1ef-4fb1-a032-7cceb79eff63.png" alt="reactjs"  height="40" style="max-width: 100%;">
+  </a>
+  <a href="https://codeigniter.com/">
   <img src="https://user-images.githubusercontent.com/5701533/217468176-b4f5ca48-7bdd-4f3b-a7a8-4a2ff3d99d00.png" alt="codeigniter" height="40" style="max-width: 100%;">
+  </a>
+  
+
+  <a href="https://laravel.com/">
+    
+  <img src="https://user-images.githubusercontent.com/5701533/217469529-5d4b86d3-42a3-48ad-84e2-097e4aef7d7c.png" alt="laravel" height="40" style="max-width: 100%;">
+  </a>
+  
   
 
 
