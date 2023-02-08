@@ -48,7 +48,7 @@
 
 Diversely skilled **Senior Software Engineer** with 14 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
 
-  ### 🤝 Connect with me
+  ### 🤝 Let's connect
   <p>
   <a href="https://www.linkedin.com/in/jaidevbangar/">
   <img src="https://user-images.githubusercontent.com/5701533/217476218-5b665dce-97c2-41ce-bd23-49245ce6722b.png" alt="Linked In" height="40" style="max-width: 100%;">
