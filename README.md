@@ -48,7 +48,7 @@
 
 Diversely skilled **Senior Software Engineer** with 14 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
 
-  ## 🤝 Connect with me
+  ### 🤝 Connect with me
   <p>
   <a href="https://www.linkedin.com/in/jaidevbangar/">
   <img src="https://user-images.githubusercontent.com/5701533/217476218-5b665dce-97c2-41ce-bd23-49245ce6722b.png" alt="Linked In" height="40" style="max-width: 100%;">
@@ -68,22 +68,22 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
 
   
 
-## 🏆 Achievements:
+### 🏆 Achievements:
   - Worked on very complex project in past years, where I explored lots of technical stuff and utilised my skills to contribute in many modules.
   - **Top Rated Plus** Developer on Upwork, which means coming in **Top 3% developers.** 
 
-## 🚀 PHP Stack: 
+### 🚀 PHP Stack: 
   - PHP, CodeIgniter, Zend Framework 2 + Doctrine ORM, Laravel, MySQL, Redis
 
-## 🚀 JavaScript
+### 🚀 JavaScript
   - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
-## 🚀 UI/UX:
+### 🚀 UI/UX:
   - HTML5, CSS, React, jQuery
 
-## 🚀 OpenSource
+### 🚀 OpenSource
   - WordPress, Magento, OpenCart, Symfony2, CodeIgniter, Zend Framework with Doctrine ORM 2 , Basic knowledge of Drupal. 
 
-## 🚀 Servers
+### 🚀 Servers
   - Ubuntu, Centos, Apache HTTPD, Apache mod_rewrite, .htaccess, nginx, Basic Linux understanding.
    
 
