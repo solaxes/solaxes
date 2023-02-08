@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋 I'm Jaidev Bangar</h1>
-<p align="center">Full-Stack Developer from India</p>
+<h3 align="center">Full-Stack Developer from India</h3>
+<p align="center">
+  <a href="https://php.net" target="_blank">
+  <img src="https://user-images.githubusercontent.com/5701533/217466363-c4260ba3-8efa-40cc-b1fb-c17b3915731b.png" alt="php" width="60" style="max-width: 100%;">
+  </a>
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/5701533/217467683-23d09908-23b1-4362-8892-7ea2fb0e5f00.png" alt="javascript" width="40" height="40" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/5701533/217467938-4aab0187-c1ef-4fb1-a032-7cceb79eff63.png" alt="reactjs"  height="40" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/5701533/217468176-b4f5ca48-7bdd-4f3b-a7a8-4a2ff3d99d00.png" alt="codeigniter" height="40" style="max-width: 100%;">
+  
+
+
+
+</p
 
 ![](https://komarev.com/ghpvc/?username=solaxes)
 
