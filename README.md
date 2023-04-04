@@ -76,7 +76,7 @@ Diversely skilled **Senior Software Engineer** with 14 years helping businesses 
   - PHP, CodeIgniter, Zend Framework 2 + Doctrine ORM, Laravel, MySQL, Redis
 
 ### 🚀 JavaScript
-  - JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
+  - ReactJs,JavaScript, jQuery, Node.js, Express.js, MongoDB, Redis.
 ### 🚀 UI/UX
   - HTML5, CSS, React, jQuery
 
