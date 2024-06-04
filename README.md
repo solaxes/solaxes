@@ -45,7 +45,7 @@
 
 ![](https://komarev.com/ghpvc/?username=solaxes)
 
-Diversely skilled **Senior Software Engineer** with 14 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
+Diversely skilled **Senior Software Engineer** with 16 years helping businesses maintain smooth operations and optimal workflow. Driven to enhance functionality through careful and economical application of technical enhancements. Talented at deriving maximum value from existing assets as well as knowing when cost-effective upgrades reach peak return on investment (ROI).
 
   ### 🤝 Let's connect
   <p>
