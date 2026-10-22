@@ -45,7 +45,7 @@
 
 ![](https://komarev.com/ghpvc/?username=solaxes)
 
-I’m a Senior **Software Engineer** with 16 years of experience helping businesses streamline operations and optimize workflows. I specialize in maximizing the value of existing systems, implementing cost-effective technical solutions, and knowing precisely when to invest in upgrades for the best return on investment. My goal is to ensure smooth operations, enhanced functionality, and sustainable growth.
+I am a  **Full Stack Developer** with 18+ years of experience helping businesses streamline operations and optimize workflows. I specialize in maximizing the value of existing systems, implementing cost-effective technical solutions, and knowing precisely when to invest in upgrades for the best return on investment. My goal is to ensure smooth operations, enhanced functionality, and sustainable growth.
 
 
   ### 🤝 Let's connect
